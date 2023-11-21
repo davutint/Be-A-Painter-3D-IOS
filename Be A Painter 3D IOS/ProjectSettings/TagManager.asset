@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - kutu
+  - "\xE7\xF6p"
+  - domateslekesi
+  - "mavimen\xFCkutusu"
+  - "domatesmen\xFCkutusu"
+  - domates
+  - "\xE7ubuk1"
+  - "\xE7ubuk2"
+  - "\xE7ubuk3"
+  - "\xE7ubuk4"
+  - nadir1
+  - nadir2
+  - kahverengi
+  - siyah
+  - "k\u0131rm\u0131z\u0131"
+  - mavi
+  - mor
+  - "ye\u015Fil"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - kutular
+  - Water
+  - UI
+  - eser
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "f\u0131rca"
+    uniqueID: 2650872997
+    locked: 0
+  - name: leke
+    uniqueID: 255667537
+    locked: 0
+  - name: kutular
+    uniqueID: 705207873
+    locked: 0
+  - name: eser
+    uniqueID: 2493094289
+    locked: 0
